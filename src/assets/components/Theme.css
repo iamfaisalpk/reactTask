@@ -45,3 +45,25 @@
 .switch-button:active {
     transform: scale(0.95);
 }
+
+/* *{
+    padding: auto;
+    margin: auto;
+}
+
+.dark-theme{
+    background-color: tomato;
+    color: black;
+    height: 100vh;
+}
+.light-theme{
+    background-color: yellowgreen;
+    color: white;
+    height: 100vh;
+}
+.switch-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+} */
